@@ -1,31 +1,29 @@
-# Getting Started with Create React App
+# Pin Input
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Demo](images/demo.webp)
 
-## Available Scripts
+- This project is a practice exercise to familiarize myself with Chakra UI, a flexible and accessible component library for React. It serves as a sandbox environment for experimenting with Chakra UI's features and styles.
+- Live demo: https://minhtc-tech-pin-input.netlify.app/
+- Please give this source a star, thank you so much 🥰.
 
-In the project directory, you can run:
+## Installation
 
-### `npm start`
+To run this project locally, follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Clone the repository or download the source code.
+2. Navigate to the project directory.
+3. Install the dependencies using npm:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```shell
+npm install
+```
 
-### `npm run build`
+## Usage
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To start the development server and view the Chakra UI practice project, use the following command:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```shell
+npm start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+This will start the development server and open the project in your default browser at `http://localhost:3000`.

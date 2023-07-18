@@ -75,7 +75,12 @@ const ConfigModal = () => {
 
   return (
     <>
-      <Button onClick={onOpen} colorScheme="green" size="sm" className="w-full">
+      <Button
+        onClick={onOpen}
+        colorScheme="green"
+        size="sm"
+        className="w-full py-5"
+      >
         Configuration Panel
       </Button>
 

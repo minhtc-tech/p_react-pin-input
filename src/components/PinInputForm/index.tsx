@@ -89,7 +89,7 @@ const PinInputForm = () => {
           variant="solid"
           size="sm"
           onClick={setIsSecret.toggle}
-          className="w-full"
+          className="w-full py-5"
         >
           Secret Mode: {isSecret ? "ENABLE" : "DISABLE"}
         </Button>
